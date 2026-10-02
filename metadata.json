@@ -1,0 +1,6 @@
+{
+  "name": "LumaStay - Modern Hotel & Reservations",
+  "description": "Browse LumaStay's architectural structure, explore real-time room availability, reserve stays, and manage bookings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
